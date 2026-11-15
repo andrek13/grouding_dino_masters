@@ -222,3 +222,8 @@ grounding_dino_env/
 __pycache__/
 *.pyc
 .DS_Store
+
+# Video files
+*.mp4
+
+*.zip
